@@ -5,7 +5,7 @@
 ### Web Developer
 
 
-Hi everyone, I am a Front-End Web Developer
+Hi everyone, I am Full-Stack Web Developer.
 
 Skills: HTML, CSS , Javascript, React, Typescript, Redux, React-Redux, NodeJs, ExpressJs, MongoDB
 
