@@ -7,7 +7,7 @@
 
 Hi everyone, I am Full-Stack Web Developer.
 
-Skills: HTML, CSS , Javascript, React, Typescript, Redux, React-Redux, NodeJs, ExpressJs, MongoDB
+Skills: HTML, CSS, Tailwindcss, Bootstrap, SASS , Javascript, React, Typescript, Redux, React-Redux, NodeJs, ExpressJs, MongoDB
 
 - 🔭 I’m currently working on Portfolio project 
 - 🌱 I’m currently learning ReactJs 
