@@ -16,10 +16,7 @@ Skills: HTML, CSS, Tailwindcss, Bootstrap, SASS , Javascript, React, Typescript,
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Rubel-Ahmed-Rana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdrubelahmed.rana.98)  
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Rubel-Ahmed-Rana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdrubelahmed.rana.98)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md-Rubel-Ahmed-Rana/)  
 
 
