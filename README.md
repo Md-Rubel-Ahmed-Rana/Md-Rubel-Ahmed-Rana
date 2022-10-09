@@ -6,7 +6,7 @@
 
 ## Hi everyone, I am Front-End Web Developer.
 
-Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, Javascript, REST API.
+Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, ReactJs, REST API.
 
 - 🔭 I’m currently working on Portfolio project 
 - 🌱 I’m currently learning ReactJs 
