@@ -4,7 +4,7 @@
 ### Web Developer
 
 
-## Hi everyone, I am Front-End Web Developer.
+## Hi everyone, I am Full-Stack Web Developer.
 
 Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, ReactJs, REST API.
 
