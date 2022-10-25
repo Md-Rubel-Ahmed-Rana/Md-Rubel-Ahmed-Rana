@@ -6,7 +6,7 @@
 
 ## Hi everyone, I am Full-Stack Web Developer.
 
-Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, ReactJs, REST API.
+Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, ReactJs, REST API, NodeJs, ExpressJs, MongoDB.
 
 - 🔭 I’m currently working on Portfolio project 
 - 🌱 I’m currently learning ReactJs 
