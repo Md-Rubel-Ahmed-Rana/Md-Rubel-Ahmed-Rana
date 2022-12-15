@@ -1,4 +1,3 @@
-![](https://i.ibb.co/h9sk61T/high-background.png)
 
 #Hi there 👋, I am Md Rubel Ahmed Rana
 ### Web Developer
