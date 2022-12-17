@@ -7,8 +7,8 @@
 
 Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, ReactJs, REST API, NodeJs, ExpressJs, MongoDB.
 
-- 🔭 I’m currently working on Portfolio project 
-- 🌱 I’m currently learning ReactJs 
+- 🔭 I’m currently working on Medical Management Application 
+- 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
