@@ -5,7 +5,7 @@
 
 ## Hi everyone, I am Frontend Web Developer.
 
-Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, ReactJs, REST API, NodeJs, ExpressJs, MongoDB.
+Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript,TypeSript, ReactJs, REST API, NodeJs, ExpressJs, Mongoose, MongoDB.
 
 - 🔭 I’m currently working on Medical Management Application 
 - 🌱 I’m currently learning TypeScript 
