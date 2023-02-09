@@ -3,9 +3,9 @@
 ### Web Developer
 
 
-# Hi everyone, I am Full Stack Developer.
+# Hi everyone, I am MERN Stack Developer.
 
-Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, TypeSript, ReactJs, REST API, NodeJs, ExpressJs, Mongoose, MongoDB.
+Skills: HTML, CSS, Tailwindcss, DaisyUI, Bootstrap, React-Bootstrap, Javascript, TypeSript, ReactJs, Redux, Redux-Toolkit, RTK Query, REST API, NodeJs, ExpressJs, Mongoose, MongoDB, Website Authentication, Passportjs, EJS, MVC Architecture, 
 
 - 🔭 I’m currently working on Job Portal Application 
 - 🌱 I’m currently learning Nextjs 
