@@ -7,7 +7,7 @@
 
 Skills: HTML, CSS, Tailwindcss, Bootstrap, React-Bootstrap, Javascript, TypeSript, ReactJs, Redux, Redux-Toolkit, RTK Query, REST API, NodeJs, ExpressJs, Mongoose, MongoDB, Website Authentication, Passportjs, EJS, MVC Architecture, 
 
-- 🔭 I’m currently working on Job Portal Application 
+- 🔭 I’m currently working on Job Portal Application and Team Project
 - 🌱 I’m currently learning Nextjs 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
