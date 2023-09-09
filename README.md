@@ -8,7 +8,7 @@
 Skills: HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, REST API, NodeJs, MongoDB, Website Authentication, Passportjs, EJS, MVC Architecture, 
 
 - 🔭 I’m currently working on Team Project
-- 🌱 I’m currently learning Jest and AWS 
+- 🌱 I’m currently learning Testing and AWS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
