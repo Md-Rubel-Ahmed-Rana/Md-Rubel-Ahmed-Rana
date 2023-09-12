@@ -3,12 +3,12 @@
 ### Web Developer
 
 
-# Hi everyone, I am MERN Stack Developer.
+# Hi everyone, I am Full Stack Developer.
 
-Skills: HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, REST API, NodeJs, MongoDB, Website Authentication, Passportjs, EJS, MVC Architecture, 
+Skills: HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, Nextjs,  REST API, NodeJs, Expressjs, Prisma ORM, Mongoose, MongoDB, MySQL, PostgreSQL, Website Authentication, EJS, MVC and Modular Architecture. 
 
 - 🔭 I’m currently working on Team Project
-- 🌱 I’m currently learning Testing and AWS 
+- 🌱 I’m currently learning Testing, Docker and AWS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
