@@ -5,7 +5,7 @@
 
 # Hi everyone, I am Full Stack Developer.
 
-Skills: HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, Nextjs,  REST API, NodeJs, Expressjs, Nestjs, Prisma ORM, TypeORM, Mongoose, MongoDB, MySQL, PostgreSQL, Docker, AWS, Redis, RabbitMQ, RPC, RTC, Website Authentication, RBAC, EJS, MVC and Modular Architecture, Microservice.
+Skills: HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, Nextjs,  REST API, NodeJs, Expressjs, Nestjs, Prisma ORM, TypeORM, Mongoose, MongoDB, MySQL, PostgreSQL, Docker, AWS, Redis, RabbitMQ, RPC, RTC, Website Authentication, RBAC, EJS, MVC and Modular Architecture, Microservice System Design.
 
 - 🔭 I’m currently working on Team Project
 - 🌱 I’m currently learning Testing, Docker and AWS 
