@@ -1,5 +1,5 @@
 
-![Profile Image](https://i.ibb.co/D1TgMPL/Profile-Image.png)
+<img src="https://i.ibb.co/D1TgMPL/Profile-Image.png" alt="Profile Image" width="200" height="200">
 
 
 #Hi there 👋, I am Md Rubel Ahmed Rana
