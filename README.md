@@ -2,12 +2,11 @@
 <img src="https://i.ibb.co/MDwcjqk/personal-brand-banner.png" alt="Profile Image" width="100%" height="500">
 
 
-#Hi there 👋, I am Md Rubel Ahmed Rana
 ### Web Developer
 
 # Hi everyone, I am Full Stack Developer.
 
-Skills: HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, Nextjs,  REST API, NodeJs, Expressjs, Nestjs, Prisma ORM, TypeORM, Mongoose, MongoDB, MySQL, PostgreSQL, Docker, AWS, Redis, RabbitMQ, RPC, RTC, Website Authentication, RBAC, EJS, MVC and Modular Architecture, Microservice System Design.
+####### **Skills:** HTML, CSS, Tailwindcss, Bootstrap, Javascript, TypeSript, ReactJs, Redux, Nextjs,  REST API, NodeJs, Expressjs, Nestjs, Prisma ORM, TypeORM, Mongoose, MongoDB, MySQL, PostgreSQL, Docker, AWS, Redis, RabbitMQ, Apache Kafka, Socket.io, Website Authentication, EJS, MVC and Modular Architecture, Microservice System Design.
 
 - 🔭 I’m currently working on Team Project
 - 🌱 I’m currently learning Testing, Docker and AWS 
