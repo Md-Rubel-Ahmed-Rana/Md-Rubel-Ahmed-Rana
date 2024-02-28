@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/D1TgMPL/Profile-Image.png" alt="Profile Image" width="100%" height="400">
+<img src="https://i.ibb.co/MDwcjqk/personal-brand-banner.png" alt="Profile Image" width="100%" height="400">
 
 
 #Hi there 👋, I am Md Rubel Ahmed Rana
