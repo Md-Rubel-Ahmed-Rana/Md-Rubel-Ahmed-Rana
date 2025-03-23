@@ -6,7 +6,11 @@
 
 # Hi everyone, I am Full Stack Developer.
 
-**Skills:** Tailwindcss, Bootstrap, TypeSript, ReactJs, ReduxJs, NextJs, REST API, ExpressJs, NestJs,
+## About Me
+Highly skilled Javascript Developer with over 3 years of experience in designing, developing, and maintaining scalable web applications. Proficient in backend and frontend development, database, management, and API integration. Strong problem-solving abilities and a passion for keeping myself updated with latest technologies
+
+## Skills: 
+Tailwindcss, Bootstrap, TypeSript, ReactJs, ReduxJs, NextJs, REST API, ExpressJs, NestJs,
 Prisma ORM, MongoDB, PostgreSQL, Docker, AWS, Redis, RabbitMQ, JWT, Google OAuth,
 PassportJs, Firebase, MVC Pattern, Microservice, System Design.
 
