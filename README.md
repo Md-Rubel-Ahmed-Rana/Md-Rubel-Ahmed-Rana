@@ -1,6 +1,6 @@
-<img src="https://ozdfjxhqdgcddulnrscf.supabase.co/storage/v1/object/sign/assets/github-banner-image.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5Xzc0NzI2MWNiLWM4ZmYtNDkwNC05YTJlLTRiYmNlMjI1MGJjZCJ9.eyJ1cmwiOiJhc3NldHMvZ2l0aHViLWJhbm5lci1pbWFnZS5qcGciLCJpYXQiOjE3NDc0ODg1MjksImV4cCI6MzE3MTA3NDg4NTI5fQ.hqyf7fVOV5JjEdX4oki_MwLCoeUlhJxpUrfJ5RxdbJc" alt="Profile Image" width="100%" height="300" style="border-radius: 15px">
+<img src="https://ozdfjxhqdgcddulnrscf.supabase.co/storage/v1/object/sign/assets/github-banner-image.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5Xzc0NzI2MWNiLWM4ZmYtNDkwNC05YTJlLTRiYmNlMjI1MGJjZCJ9.eyJ1cmwiOiJhc3NldHMvZ2l0aHViLWJhbm5lci1pbWFnZS5qcGciLCJpYXQiOjE3NDc0ODg1MjksImV4cCI6MzE3MTA3NDg4NTI5fQ.hqyf7fVOV5JjEdX4oki_MwLCoeUlhJxpUrfJ5RxdbJc" alt="Profile Image" width="100%" height="300">
 
-# Software Engineer.
+# Software Engineer
 
 ## About Me
 **Hello there,** I am **Md Rubel Ahmed Rana**, a passionate **Software Engineer** based on **JavaScript/Typescript**. I am an expert on both **frontend** and **backend**. With **2 years** of hands-on experience in a Full-Stack role, designing high-performance, scalable, managing microservices, and production-ready web applications. 
