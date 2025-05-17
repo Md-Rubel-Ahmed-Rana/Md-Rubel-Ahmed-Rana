@@ -1,23 +1,21 @@
+<img src="https://ozdfjxhqdgcddulnrscf.supabase.co/storage/v1/object/sign/assets/github-banner-image.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5Xzc0NzI2MWNiLWM4ZmYtNDkwNC05YTJlLTRiYmNlMjI1MGJjZCJ9.eyJ1cmwiOiJhc3NldHMvZ2l0aHViLWJhbm5lci1pbWFnZS5qcGciLCJpYXQiOjE3NDc0ODg1MjksImV4cCI6MzE3MTA3NDg4NTI5fQ.hqyf7fVOV5JjEdX4oki_MwLCoeUlhJxpUrfJ5RxdbJc" alt="Profile Image" width="100%" height="300" style={{borderRadius:20}}>
 
-<img src="https://i.ibb.co/MDwcjqk/personal-brand-banner.png" alt="Profile Image" width="100%" height="500">
-
-
-### Web Developer
-
-# Hi everyone, I am Full Stack Developer.
+# Software Engneer.
 
 ## About Me
-Highly skilled Javascript Developer with over 3 years of experience in designing, developing, and maintaining scalable web applications. Proficient in backend and frontend development, database, management, and API integration. Strong problem-solving abilities and a passion for keeping myself updated with latest technologies
+**Hello there,** I am **Md Rubel Ahmed Rana**, a passionate **Software Engineer** based on **JavaScript/Typescript**. I am expert on both **frontend** and **backend**. With **2 years** of hands-on experience on Full-Stack role designing high-performance, scalable, and production-ready web applications. 
 
 ## Skills: 
-Tailwindcss, Bootstrap, TypeSript, ReactJs, ReduxJs, NextJs, REST API, ExpressJs, NestJs,
-Prisma ORM, MongoDB, PostgreSQL, Docker, AWS, Redis, RabbitMQ, JWT, Google OAuth,
-PassportJs, Firebase, MVC Pattern, Microservice, System Design.
+**Frontend:** TypeSript, Tailwindcss, Bootstrap, ReactJs, NextJs, ReduxJs, Material UI, Ant Design, Shadcn UI
 
-- 🔭 I’m currently working on Portfolio Project
-- 🌱 I’m currently learning Testing, Docker and AWS 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+**Backend:** Nodejs, ExpressJs, NestJs,  Microservice,
+
+**Database:** MongoDB, Mongoose, PostgreSQL, Prisma ORM,  GraphQL, Redis, Elastic Search
+
+**DevOps & Tools:**  Docker, RabbitMQ, NGINX, CI/CD, Firebase, AWS, Google Cloud, Vercel, Render, Netlify
+
+**Others:** Zod, Multer, Nodemailer, Stripe, PayPal, Framer Motion, JWT, Passport.js, Swagger
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='#000000'>](https://github.com/Md-Rubel-Ahmed-Rana) 
