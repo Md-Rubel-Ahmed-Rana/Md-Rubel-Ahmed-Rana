@@ -23,10 +23,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Rubel-Ahmed-Rana&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Md-Rubel-Ahmed-Rana)  
-
-![GitHub metrics](https://metrics.lecoq.io/Md-Rubel-Ahmed-Rana)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Rubel-Ahmed-Rana)  
 
-![Profile views](https://gpvc.arturio.dev/Md-Rubel-Ahmed-Rana)  
