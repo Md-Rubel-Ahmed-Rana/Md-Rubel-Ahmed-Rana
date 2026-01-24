@@ -6,9 +6,6 @@
 **Hello there,** I am **Md Rubel Ahmed Rana**, a passionate **Software Engineer** based on **JavaScript/Typescript**. I am an expert on both **frontend** and **backend**. With **2 years** of hands-on experience in a Full-Stack role, designing high-performance, scalable, managing microservices, and production-ready web applications. 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Md-Rubel-Ahmed-Rana)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1044226224895033444) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/mdrubelahmed.rana.98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rubel-ahmed-rana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdrubelahmedrana521@gmail.com) 
 
