@@ -3,7 +3,7 @@
 # Software Developer
 
 ## About Me
-**Hello there,** I am **Md Rubel Ahmed Rana**, a passionate **Software Engineer** based on **JavaScript/Typescript**. I am an expert on both **frontend** and **backend**. With **2 years** of hands-on experience in a Full-Stack role, designing high-performance, scalable, managing microservices, and production-ready web applications. 
+**Hello there,** I am **Md Rubel Ahmed Rana**, a passionate **Software Engineer** based on **JavaScript/Typescript**. I am an expert on both **frontend** and **backend**. With **3+ years** of hands-on experience in a Full-Stack role, designing high-performance, scalable, managing microservices, and production-ready web applications. 
 
 
 ## 🌐 Socials:
